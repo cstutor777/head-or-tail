@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "heads-or-tails",
+  "id": "37d2bc48-4681-4e77-8815-481d8c07fbab",
+  "version": "2.3.4",
+  "isNew": false
+}
